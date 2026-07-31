@@ -49,3 +49,10 @@ As cores principais ficam no início de `styles.css`, dentro de `:root`.
 - Daniel aparece com foto real.
 - Romero e Venâncio aparecem em slides de placeholder elegantes até as fotos serem adicionadas.
 - Paleta visual atualizada para as cores do escritório: `#1F3F5E`, `#C6A573` e `#264367`.
+
+
+## Correções mobile
+- Botão flutuante do WhatsApp convertido em botão circular compacto no celular, com suporte à área segura de iPhone.
+- Removido o preenchimento inferior que causava desalinhamento.
+- Ajustes de hero, cards, textos, menu e rodapé para telas pequenas.
+- Proteção contra rolagem horizontal acidental.
