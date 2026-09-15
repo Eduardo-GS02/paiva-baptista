@@ -47,12 +47,17 @@ As cores principais ficam no início de `styles.css`, dentro de `:root`.
 
 - Hero principal com rotação automática entre os 3 advogados.
 - Daniel aparece com foto real.
-- Romero e Venâncio aparecem em slides de placeholder elegantes até as fotos serem adicionadas.
+- Daniel, Romero e Venâncio estão configurados para aparecer no slider principal e na seção da equipe.
 - Paleta visual atualizada para as cores do escritório: `#1F3F5E`, `#C6A573` e `#264367`.
 
+- O código já está configurado para usar `assets/romero.jpg` no slider e na seção da equipe.
 
-## Correções mobile
-- Botão flutuante do WhatsApp convertido em botão circular compacto no celular, com suporte à área segura de iPhone.
-- Removido o preenchimento inferior que causava desalinhamento.
-- Ajustes de hero, cards, textos, menu e rodapé para telas pequenas.
-- Proteção contra rolagem horizontal acidental.
+
+## Fotos atuais da equipe
+
+- `assets/daniel-alexandre.jpg`
+- `assets/romero.jpg`
+- `assets/venancio.jpg`
+
+O arquivo `romero.jpg` deve permanecer na pasta `assets` da sua cópia local/repositório.
+A foto do Venâncio já está incluída neste pacote.
